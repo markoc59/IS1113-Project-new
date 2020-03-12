@@ -1,0 +1,9 @@
+body{
+	background-image: url(https://cdn.pixabay.com/photo/2015/09/05/23/20/grey-926189__480.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+#link{
+	text-align: center;
+}
